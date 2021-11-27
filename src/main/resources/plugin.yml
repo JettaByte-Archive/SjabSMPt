@@ -1,0 +1,6 @@
+name: SjabSMPt
+version: '${project.version}'
+main: jettabyte.sjabsmpt.SjabSMPt
+api-version: 1.17
+authors: [ iNGPUNGYA ]
+description: SMP AND DIE
